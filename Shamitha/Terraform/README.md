@@ -41,3 +41,4 @@ This folder contains Terraform configuration and screenshots showing how AWS res
 - Learned how Terraform creates AWS infrastructure
 - Understood how Terraform manages multiple resources together
 
+
